@@ -1,5 +1,10 @@
 # 90DaysOfDataOps
 
+<p align="center">
+ <img src="90DaysOfDataOps_Logo.png?raw=true" alt="90DaysOfDataOps Logo" width="50%" height="50%" />
+</p>
+
+
 Here goes something else! 
 
 I have been hearing the term DataOps amongst the world of Generative AI, Machine Learning, Deep Learning and Data Engineerings so I wanted to get my hands dirty and try something out in this field. 
