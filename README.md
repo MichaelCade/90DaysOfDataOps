@@ -35,7 +35,7 @@ A lot of the content I am seeing here around DataOps is focused on using Python,
 # 📌 DataOps 90-Day Learning Plan
 
 ## ✅ Introduction to DataOps & Setting Up Your Environment (Days 1-5)
-- [ ] **Day 1**: What is DataOps? Principles, Goals & How It Differs from DevOps & Data Engineering.
+- [✅] [**Day 1**: What is DataOps? Principles, Goals & How It Differs from DevOps & Data Engineering.](/Days/Day1.md)
 - [ ] **Day 2**: The DataOps Lifecycle – From Data Ingestion to Analytics.
 - [ ] **Day 3**: Overview of DataOps Tools – Airflow, dbt, Kafka, Great Expectations, etc.
 - [ ] **Day 4**: Setting Up a DataOps Workstation – Install Golang, Git, Terraform, Airflow, Kafka, Prometheus, etc.
