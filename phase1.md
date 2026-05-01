@@ -1,5 +1,5 @@
 
-SQL
-Python 
-Lakehouse
-Streaming vs Batch 
+- SQL
+- Python 
+- Lakehouse
+- Streaming vs Batch 
