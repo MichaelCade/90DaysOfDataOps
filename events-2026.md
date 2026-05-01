@@ -1,0 +1,4 @@
+- [Snowflake Summit - June 1-4- San Fran](https://www.snowflake.com/en/summit/)
+- [DataBricks, Data & AI Summit - June 15-18 - San Fran](https://www.databricks.com/dataaisummit)
+- [Big Data LDN - Sept 23-24 - London](https://www.bigdataldn.com/)
+- [Current by Confluent](https://current.confluent.io/)
