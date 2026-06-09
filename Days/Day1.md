@@ -140,7 +140,7 @@ notice them**.
 
 ------------------------------------------------------------------------
 
-# 🔄 10️⃣ DataOps vs DevOps vs Data Engineering
+# 🔄 1️⃣0️⃣ DataOps vs DevOps vs Data Engineering
 
   -----------------------------------------------------------------------------
   Area       DevOps             Data Engineering                DataOps
@@ -170,7 +170,7 @@ systems with business value.
 
 ------------------------------------------------------------------------
 
-# 🔁 11️⃣ The DataOps Lifecycle
+# 🔁 1️⃣1️⃣ The DataOps Lifecycle
 
 1.  Data ingestion\
 2.  Data transformation\
@@ -183,7 +183,7 @@ The **feedback loop** enables continuous improvement.
 
 ------------------------------------------------------------------------
 
-# 🧠 12️⃣ Cultural Principles of DataOps
+# 🧠 1️⃣2️⃣ Cultural Principles of DataOps
 
 DataOps is not just tooling --- it is cultural.
 
@@ -198,7 +198,7 @@ Without cultural alignment, automation alone fails.
 
 ------------------------------------------------------------------------
 
-# 🏗 13️⃣ Technology Stack Examples
+# 🏗 1️⃣3️⃣ Technology Stack Examples
 
 ## Cloud Platforms
 
@@ -237,7 +237,7 @@ Without cultural alignment, automation alone fails.
 
 ------------------------------------------------------------------------
 
-# 🚀 14️⃣ Key Benefits of DataOps
+# 🚀 1️⃣4️⃣ Key Benefits of DataOps
 
 -   Reduced analytics cycle times\
 -   Higher data trust\
@@ -249,7 +249,7 @@ Without cultural alignment, automation alone fails.
 
 ------------------------------------------------------------------------
 
-# 🎯 15️⃣ Summary
+# 🎯 1️⃣5️⃣ Summary
 
 DataOps is:
 
